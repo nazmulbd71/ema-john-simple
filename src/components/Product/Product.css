@@ -22,22 +22,27 @@
     font-size: 21px;
     line-height: 25px;
     letter-spacing: 0.0015em;
-    color: #0E161A;
+    color: #c1eaff;
 }
-.product-info{
+
+.product-info {
     margin-left: 14px;
 }
-.product-info p{
+
+.product-info p {
     margin-top: 5px;
 }
-.btn-cart{
+
+.btn-cart {
     width: 100%;
     background: #FFE0B3;
     border: 1px solid #95A0A7;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    color: black;
 }
-.btn-cart:hover{
+
+.btn-cart:hover {
     background-color: orange;
 }
